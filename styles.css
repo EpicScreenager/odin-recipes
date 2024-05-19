@@ -1,11 +1,14 @@
-body {
+* {
+    background-color: #172531;
     font-family: "Verdana", "Arial", sans-serif;
 }
 
 h1 {
     text-align: center;
+    background-color: #2e4a62;
+    color: #ffffff;
 }
 
-br {
-
+.menu {
+    color: #f0f4f8;
 }
